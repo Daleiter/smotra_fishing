@@ -1,0 +1,1 @@
+(41, {'gotovo': 46, 'huevo': 16, 'capcha': 41})
